@@ -8,9 +8,10 @@ import java.time.LocalDate
 import java.time.LocalTime
 
 @RequiresApi(Build.VERSION_CODES.O)
+
 fun main() {
 
-    //Agregamos los datos de el empleado
+    //Agregamos los datos personales del empleado
 
     val staff = Employee(
         id = 9,
