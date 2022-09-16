@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Registro Personal</string>
+
+    <string name="staff_id">Identificador</string>
+    <string name="fullname_staff">Nombre completo</string>
+    <string name="gradeschool_staff">Grado academico</string>
+    <string name="curp_staff">Curp</string>
+    <string name="dateentry_staff">Fecha de entrada</string>
+    <string name="gender_staff">Genero</string>
+    <string name="budgetkey_staff">Clave Presupuestal</string>
+    
+</resources>
